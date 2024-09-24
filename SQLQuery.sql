@@ -1,0 +1,6 @@
+SELECT TOP (1000) [Id]
+      ,[Email]
+      ,[Name]
+      ,[Username]
+      ,[passward]
+  FROM [crud app].[dbo].[crudapp]
